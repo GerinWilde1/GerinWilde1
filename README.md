@@ -4,6 +4,25 @@
 # 💫 About Me:
 I am currently remaking a package tracker app in Python with REST API, MondoDB, and Flask<br><br>I play the guitar and love LotR<br><br>I've always loved computers and now have my Computer Science Bachelor's from Brigham Young University - Idaho<br><br>I love the excitement when everything comes together.
 
+## 🚀 Featured Projects
+
+### 📦 Mini Logistics Brain API
+- Flask + MongoDB + Docker microservice
+- Enforced package lifecycle transitions (CREATED → DELIVERED)
+- Filtering, pagination, and real-time metrics
+- Automated API workflow (create → update → fetch → metrics)
+
+👉 https://github.com/gerinwilde1/mini-logistics-brain
+
+### 🌐 Android Translation App
+- Kotlin + MLKit
+- Real-time speech-to-text translation
+- Offline processing on the device
+
+### 🧠 Multiplayer Game of Life
+- React + backend state synchronization
+- Real-time multiplayer simulation
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gdwilde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerinwilde) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/WildeMan101) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@gerinwilde1587) 
